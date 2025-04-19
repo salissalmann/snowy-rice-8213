@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "snowy-rice-8213",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "763bf04f-bea5-4b5e-97b3-0bd72d28abd5",
+      "database_name": "silent-voice-b704-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
